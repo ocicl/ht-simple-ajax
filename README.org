@@ -1,0 +1,10 @@
+* ht-simple-ajax
+
+Another Ajax library for Hunchentoot
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/martin-loetzsch/ht-simple-ajax.git   |
+| commit  | 42a09cf  |
+| systems | ht-simple-ajax |
+|---------+-------------------------------------------|
+
